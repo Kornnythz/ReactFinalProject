@@ -11,10 +11,7 @@ function ProfileDetails() {
             <div className="right-content">
                 <h4>I am <span>Vatcharakon Kalapakdee</span></h4>
                 <p className="paragraph">
-                I’m a hard working man who sought for knowledge and something new to improve myself.
-
-I always look forward for opportunities to learn new coding languages. So I could come up with new ideas and adapt my code in various ways.
-                    
+                I’m a hard working man who sought for knowledge and something new to improve myself. I always look forward for opportunities to learn new coding languages. So I could come up with new ideas and adapt my code in various ways.  
                 </p>
                 <div className="about-info">
                     <div className="info-title">
